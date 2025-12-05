@@ -74,7 +74,7 @@ const Home = () => {
         <div className={`mt-12 ${isMobile ? "flex flex-col gap-6" : "grid grid-cols-2 gap-10 items-center"}`}>
           {!isMobile && (
             <div className="text-left space-y-6">
-              <h2 className="text-3xl font-semibold">Why NutriGenie?</h2>
+              <h2 className="text-3xl font-semibold">Why Dietopia?</h2>
               <ul className="space-y-4 text-muted-foreground text-base">
                 <li className="flex items-start gap-3">
                   <Leaf className="h-6 w-6 text-primary mt-1" />
@@ -99,7 +99,7 @@ const Home = () => {
 
           {isMobile && (
             <div className="text-left space-y-4">
-              <h2 className="text-2xl font-semibold">Why NutriGenie?</h2>
+              <h2 className="text-2xl font-semibold">Why Dietopia?</h2>
               <ul className="space-y-4 text-muted-foreground text-base">
                 <li className="flex items-start gap-3">
                   <Leaf className="h-6 w-6 text-primary mt-1" />
