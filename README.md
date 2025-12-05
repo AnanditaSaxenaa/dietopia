@@ -1,5 +1,5 @@
 
-# NutriGenie — Your AI-Powered Personal Diet Companion
+# Dietopia — Your AI-Powered Personal Diet Companion
 
 **NutriGenie** is a full-stack web app that helps users generate personalized diet plans tailored to their health goals, preferences, and lifestyle. Built with React, Node.js, Express, and MongoDB, NutriGenie leverages generative AI to create complete diet plans, meal ideas, grocery lists, and tips — all designed to help users stay healthy and on track.
 
@@ -43,8 +43,8 @@
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/AnanditaSaxenaa/nutrigenie.git
-cd nutrigenie
+git clone https://github.com/AnanditaSaxenaa/dietopia.git
+cd dietopia
 ```
 
 ### 2️⃣ Install dependencies
@@ -127,6 +127,6 @@ This project is licensed under the MIT License.
 
 ## ⭐️ Show your support
 
-If you like **NutriGenie**, please ⭐️ the repo and share it! Feedback and contributions are welcome!
+If you like **Dietopia**, please ⭐️ the repo and share it! Feedback and contributions are welcome!
 
 ---
