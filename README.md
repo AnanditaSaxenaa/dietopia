@@ -1,7 +1,7 @@
 
 # Dietopia — Your AI-Powered Personal Diet Companion
 
-**NutriGenie** is a full-stack web app that helps users generate personalized diet plans tailored to their health goals, preferences, and lifestyle. Built with React, Node.js, Express, and MongoDB, NutriGenie leverages generative AI to create complete diet plans, meal ideas, grocery lists, and tips — all designed to help users stay healthy and on track.
+**Dietopia** is a full-stack web app that helps users generate personalized diet plans tailored to their health goals, preferences, and lifestyle. Built with React, Node.js, Express, and MongoDB, NutriGenie leverages generative AI to create complete diet plans, meal ideas, grocery lists, and tips — all designed to help users stay healthy and on track.
 
 ---
 ## 🌐 Live Demo
