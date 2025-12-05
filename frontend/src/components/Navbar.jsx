@@ -17,7 +17,7 @@ function Navbar() {
         <div className="flex items-center gap-6">
           {/* Brand */}
           <Link to="/" className="text-xl font-extrabold text-primary">
-            NutriGenie
+            Dietopia
           </Link>
           {/* Desktop Nav Links */}
           <div className="hidden lg:flex gap-4">
