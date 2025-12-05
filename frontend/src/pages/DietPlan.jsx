@@ -91,7 +91,7 @@ export default function DietPlanPage() {
         body: JSON.stringify({
           title: planTitle, // user-defined title
           goal: dietPlan.dietSummary?.goal || "General",
-          description: dietPlan.dietSummary?.description || "Generated using NutriGenie",
+          description: dietPlan.dietSummary?.description || "Generated using Dietopia",
           data: dietPlan,
         }),
       });
@@ -304,7 +304,7 @@ export default function DietPlanPage() {
                 body: JSON.stringify({
                   title: planTitle,
                   goal: dietPlan?.dietSummary?.goal || "General",
-                  description: dietPlan?.dietSummary?.description || "Generated using NutriGenie",
+                  description: dietPlan?.dietSummary?.description || "Generated using Dietopia",
                   data: dietPlan,
                 }),
               });
