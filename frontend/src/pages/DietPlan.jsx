@@ -117,7 +117,7 @@ export default function DietPlanPage() {
       <div className="flex justify-end">
         <PDFDownloadLink
           document={<DietPlanPDF dietPlan={dietPlan} />}
-          fileName="NutriGenie_DietPlan.pdf"
+          fileName="Dietopia_DietPlan.pdf"
         >
           {({ loading }) => (
             <Button disabled={loading}>
