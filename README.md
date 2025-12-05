@@ -6,7 +6,7 @@
 ---
 ## 🌐 Live Demo
 
-👉 [**Visit NutriGenie**](https://nutrigenie-app.onrender.com/)
+👉 [**Visit Dietopia**](https://nutrigenie-app.onrender.com/)
 
 ---
 
